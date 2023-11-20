@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097160692827",
+    "project_id": "royal-rangers-hravec",
+    "storage_bucket": "royal-rangers-hravec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097160692827:android:daf031c60c4fc1a1335b7e",
+        "android_client_info": {
+          "package_name": "com.example.hravec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwtbA8oRDEQwX_V_SZKr977qhianBxSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
